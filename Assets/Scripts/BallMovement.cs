@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class BallMovement : MonoBehaviour
 {
-    public float speed = 10f;
+    public float speed = 20f;
     private Rigidbody rb;
 
     void Start()
@@ -15,7 +15,7 @@ public class BallMovement : MonoBehaviour
         float moveX = Input.GetAxis("Horizontal");
         float moveZ = Input.GetAxis("Vertical");
 
-        Vector3 movement = new Vector3(moveX, 0, moveZ);
+        Vector3 movement = new Vector3(moveX, 0f, moveZ);
 
         rb.AddForce(movement * speed);
     }
