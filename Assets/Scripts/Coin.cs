@@ -4,9 +4,10 @@ public class Coin : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
-        if(other.CompareTag("Player"))
+        if (other.CompareTag("Player"))
         {
-            GameManager.instance.AddScore(10);
+            GameManager.instance.AddScore(5);
+
             Destroy(gameObject);
         }
     }
