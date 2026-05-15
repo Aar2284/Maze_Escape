@@ -436,9 +436,7 @@ BackgroundMusic
 
 > Add Gameplay Screenshot Here
 
-```text
-[ INSERT GAME VIEW SCREENSHOT ]
-```
+![Gameplay](Screenshots/gameplay.png)
 
 ---
 
@@ -446,19 +444,13 @@ BackgroundMusic
 
 > Add Coin Collection Screenshot Here
 
-```text
-[ INSERT COIN COLLECTION SCREENSHOT ]
-```
-
 ---
 
 # ⚠️ Obstacle Interaction
 
 > Add Obstacle Collision Screenshot Here
 
-```text
-[ INSERT OBSTACLE SCREENSHOT ]
-```
+![Obstacle](Screenshots/obstacle.png)
 
 ---
 
@@ -466,9 +458,7 @@ BackgroundMusic
 
 > Add Door Animation Screenshot Here
 
-```text
-[ INSERT DOOR OPENING SCREENSHOT ]
-```
+![Door Animation](Screenshots/door-animation.png)
 
 ---
 
@@ -476,9 +466,7 @@ BackgroundMusic
 
 > Add Game Over Screenshot Here
 
-```text
-[ INSERT GAME OVER PANEL SCREENSHOT ]
-```
+![Game Over](Screenshots/game-over.png)
 
 ---
 
