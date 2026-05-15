@@ -428,9 +428,7 @@ BackgroundMusic
 
 > Add Scene View Screenshot Here
 
-```text
-[ INSERT SCENE VIEW SCREENSHOT ]
-```
+![Scene View](Screenshots/scene-view.png)
 
 ---
 
