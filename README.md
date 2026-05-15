@@ -426,7 +426,6 @@ BackgroundMusic
 
 # 🎬 Scene View
 
-> Add Scene View Screenshot Here
 
 ![Scene View](Screenshots/scene-view.png)
 
@@ -434,7 +433,6 @@ BackgroundMusic
 
 # 🎮 Gameplay View
 
-> Add Gameplay Screenshot Here
 
 ![Gameplay](Screenshots/gameplay.png)
 
@@ -442,13 +440,12 @@ BackgroundMusic
 
 # 🪙 Coin Collection System
 
-> Add Coin Collection Screenshot Here
 
+![Coin Collection](Screenshots/coin-system.png)
 ---
 
 # ⚠️ Obstacle Interaction
 
-> Add Obstacle Collision Screenshot Here
 
 ![Obstacle](Screenshots/obstacle.png)
 
@@ -456,7 +453,6 @@ BackgroundMusic
 
 # 🚪 Door Opening Animation
 
-> Add Door Animation Screenshot Here
 
 ![Door Animation](Screenshots/door-animation.png)
 
@@ -464,7 +460,6 @@ BackgroundMusic
 
 # 🏁 Game Over Panel
 
-> Add Game Over Screenshot Here
 
 ![Game Over](Screenshots/game-over.png)
 
